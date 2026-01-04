@@ -1,0 +1,6 @@
+﻿Coffee_Type,Size,Sugar_Level,Price,Purchased
+Espresso,Small,Low,120,Yes
+Latte,Medium,Medium,180,No
+Cappuccino,Large,High,220,Yes
+Americano,Medium,Low,150,No
+Mocha,Large,High,250,Yes
